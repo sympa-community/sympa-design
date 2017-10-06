@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.048882mm"
+   height="42.983109mm"
+   id="svg34935"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sympa_logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-81.51108"
+     inkscape:cy="-7.3463585"
+     inkscape:document-units="px"
+     inkscape:current-layer="g30546"
+     showgrid="false"
+     inkscape:window-width="1670"
+     inkscape:window-height="923"
+     inkscape:window-x="2044"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs34937">
+    <inkscape:perspective
+       id="perspective34943"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipPath">
+      <path
+         sodipodi:nodetypes="cscsc"
+         id="path24628"
+         d="m 1055.6321,-603.95983 c 0,0 -1.2921,-2.77272 -39.9143,8.94717 -38.60918,11.71595 -37.25308,15.24809 -37.25308,15.24809 0,0 41.64038,17.6367 49.06528,15.93106 5.5132,-1.26652 28.1021,-40.12632 28.1021,-40.12632 z"
+         style="fill:#ff1b1b;fill-opacity:1;fill-rule:evenodd;stroke:#ff1b1b;stroke-width:2.15774751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/www/home/htmlssl/wikitest/lib/tpl/sympa/images/sympa_logo.png"
+         inkscape:export-xdpi="44.923401"
+         inkscape:export-ydpi="44.923401"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       height="2"
+       id="filter">
+      <feGaussianBlur
+         id="feGaussianBlur42455"
+         stdDeviation="1.0" />
+    </filter>
+    <clipPath
+       id="clipPathC">
+      <path
+         sodipodi:nodetypes="cscsc"
+         id="path24616"
+         d="m 1036.0226,-476.29555 c 0,0 -2.087,2.23647 -35.1833,-20.8647 -33.08518,-23.0934 -30.70218,-26.03217 -30.70218,-26.03217 0,0 45.05478,-3.87872 51.58678,0.0418 4.8503,2.91114 14.2987,46.85507 14.2987,46.85507 z"
+         style="fill:#c9e235;fill-opacity:1;fill-rule:evenodd;stroke:#c9e235;stroke-width:2.15774751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/www/home/htmlssl/wikitest/lib/tpl/sympa/images/sympa_logo.png"
+         inkscape:export-xdpi="44.923401"
+         inkscape:export-ydpi="44.923401"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       id="filterD"
+       height="2"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feGaussianBlur
+         stdDeviation="1.0"
+         id="feGaussianBlur42718" />
+    </filter>
+    <clipPath
+       id="clipPath7">
+      <path
+         sodipodi:nodetypes="cscsc"
+         id="path2601"
+         d="m 1075.9911,-600.72896 c 0,0 2.087,-2.23648 35.1833,20.86469 33.0852,23.09339 30.7022,26.03216 30.7022,26.03216 0,0 -45.0547,3.87873 -51.5868,-0.0418 -4.8502,-2.91114 -14.2987,-46.85506 -14.2987,-46.85506 z"
+         style="fill:#78e5fb;fill-opacity:1;fill-rule:evenodd;stroke:#78e5fb;stroke-width:2.15774751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/tmp/enveloppes.png"
+         inkscape:export-xdpi="150.12862"
+         inkscape:export-ydpi="150.12862"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       height="2"
+       id="filterN">
+      <feGaussianBlur
+         id="feGaussianBlur5294"
+         stdDeviation="1.0" />
+    </filter>
+    <clipPath
+       id="clipPathP">
+      <path
+         sodipodi:nodetypes="cscsc"
+         id="path24620"
+         d="m 1057.0243,-472.77416 c 0,0 1.2921,2.77273 39.9144,-8.94713 38.6091,-11.71597 37.253,-15.24811 37.253,-15.24811 0,0 -41.6404,-17.63669 -49.0653,-15.93107 -5.5132,1.26653 -28.1021,40.12631 -28.1021,40.12631 z"
+         style="fill:#ed8029;fill-opacity:1;fill-rule:evenodd;stroke:#ed8029;stroke-width:2.15774751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/tmp/enveloppes.png"
+         inkscape:export-xdpi="150.12862"
+         inkscape:export-ydpi="150.12862"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       id="filteru"
+       height="2"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feGaussianBlur
+         stdDeviation="1.0"
+         id="feGaussianBlur6194" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata34940">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     transform="translate(-222.38594,-564.13864)">
+    <g
+       inkscape:export-ydpi="43.061451"
+       inkscape:export-xdpi="43.061451"
+       inkscape:export-filename="/www/home/htmlssl/wiki/data/media/documents_partages/logos/sympa/sympa_multi_150x121.png"
+       id="g30546"
+       style="fill:#ffffff;fill-opacity:1"
+       transform="matrix(-1.6573124,-0.2630051,-0.2630051,1.6573124,1777.4673,1298.1908)">
+      <rect
+         inkscape:export-ydpi="259"
+         inkscape:export-xdpi="259"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche_test.png"
+         ry="0"
+         transform="matrix(0.9876411,0.15673246,-0.15673252,0.98764109,0,0)"
+         y="-446.26193"
+         x="956.84741"
+         height="131.36018"
+         width="112.80093"
+         id="rect4473"
+         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="matrix(-0.9876411,-0.15673246,-0.15673246,0.9876411,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4382"
+         y="-560.0564"
+         x="-459.07132"
+         style="font-style:normal;font-weight:normal;font-size:23.83717346px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-560.0564"
+           x="-459.07132"
+           id="tspan4384"
+           sodipodi:role="line" /></text>
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:0.98000004;fill:#481f1f;fill-opacity:1;stroke:#ffffff;stroke-width:0.08804181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4734"
+         cx="-974.79401"
+         cy="-163.30589"
+         r="27.355848"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:0.98000004;fill:#481f1f;fill-opacity:1;stroke:#ffffff;stroke-width:0.09797705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4736"
+         cx="-933.5766"
+         cy="-168.53989"
+         r="13.296885"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:0.98000004;fill:#481f1f;fill-opacity:1;stroke:#ffffff;stroke-width:0.08381972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4738"
+         cx="-920.63312"
+         cy="-135.82254"
+         r="20.356218"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:0.98000004;fill:#481f1f;fill-opacity:1;stroke:#ffffff;stroke-width:0.1094565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4740"
+         cx="-943.28009"
+         cy="-115.52737"
+         r="8.9910688"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:0.98000004;fill:#481f1f;fill-opacity:1;stroke:#ffffff;stroke-width:0.1094565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4742"
+         cx="-970.32355"
+         cy="-118.71086"
+         r="16.809389"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <circle
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.59592932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4744"
+         cx="-952.09735"
+         cy="-144.63045"
+         r="30.642256"
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)" />
+      <g
+         transform="matrix(-0.58856431,-0.09340147,-0.09340147,0.58856431,1457.9915,-389.61696)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Viafont;-inkscape-font-specification:'Viafont, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ee575c;fill-opacity:1;stroke:none;stroke-width:4.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4697">
+        <path
+           d="m 760.41227,394.92168 13.4,0 c 6.48,-0.12 9.84,-4.88 9.84,-9.56 0,-4.68 -1.48,-8.8 -9.88,-8.8 l -5.32,0 c -0.84,-0.28 -1.04,-1.68 0.16,-1.68 l 14.04,0 0,-7.52 -14.04,0 c -5.64,0 -8.36,3.64 -8.36,8.08 0,4.52 2.88,9.04 8.36,9.04 l 5.16,0 c 1.04,0 1.56,0.44 1.56,0.88 0,0.6 -0.56,1.2 -1.64,1.24 l -13.28,0 0,8.32 z"
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5037"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 794.46039,395.24168 7.4,0 0,-13.68 11.28,-14.32 -9.44,0 -5.28,8.28 -5.28,-8.28 -9.44,0 10.76,14.24 0,13.76 z"
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5039"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 813.38664,395.24168 9.44,0 4.84,-9.96 6.2,9.8 5.64,-9.8 4.8,9.8 9.56,0 -13.08,-27.84 -7.16,12.04 -7.04,-12.04 -13.2,28 z"
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5041"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 855.43727,367.40168 0,27.72 8.32,0 0,-12.8 6,0 c 2.56,0 6.04,-3.84 6.08,-6.96 0.08,-6.24 -4.92,-7.96 -10.28,-7.96 z m 10.12,6.72 c 0.6,0 2.64,-0.08 2.64,1.36 0,1.44 -1.84,1.72 -2.76,1.76 -0.36,0 -0.76,-0.04 -1.12,-0.04 l -0.56,0 0,-3.08 z"
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5043"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccssscsscsccs" />
+        <path
+           d="m 877.23164,395.24168 9.44,0 5.28,-9.88 5.28,9.88 9.44,0 -14.64,-28 -14.8,28 z"
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5045"
+           inkscape:connector-curvature="0" />
+      </g>
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="27.355848"
+         cy="-128.4034"
+         cx="-1099.8679"
+         id="circle4754"
+         style="opacity:1;fill:#4c2323;fill-opacity:1;stroke:#ffffff;stroke-width:0.08804181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="13.296885"
+         cy="-133.63737"
+         cx="-1058.6497"
+         id="circle4756"
+         style="opacity:1;fill:#4c2323;fill-opacity:1;stroke:#ffffff;stroke-width:0.09797705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="20.356218"
+         cy="-100.92006"
+         cx="-1045.7064"
+         id="circle4758"
+         style="opacity:1;fill:#4c2323;fill-opacity:1;stroke:#ffffff;stroke-width:0.08381972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="8.9910688"
+         cy="-80.624886"
+         cx="-1068.3535"
+         id="circle4760"
+         style="opacity:1;fill:#4c2323;fill-opacity:1;stroke:#ffffff;stroke-width:0.1094565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="16.809389"
+         cy="-83.80838"
+         cx="-1095.3975"
+         id="circle4762"
+         style="opacity:1;fill:#4c2323;fill-opacity:1;stroke:#ffffff;stroke-width:0.1094565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <circle
+         transform="matrix(-0.99455339,0.1042284,0.1042284,0.99455339,0,0)"
+         r="30.642256"
+         cy="-109.72795"
+         cx="-1077.1709"
+         id="circle4764"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.59592932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Viafont;-inkscape-font-specification:'Viafont, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ee575c;fill-opacity:1;stroke:none;stroke-width:4.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(-0.58856431,-0.09340147,-0.09340147,0.58856431,1578.5499,-320.8556)"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-ydpi="259.48264"><flowRegion
+           id="flowRegion4768"><rect
+             id="rect4770"
+             width="212.85715"
+             height="60.714287"
+             x="758.57141"
+             y="358.07648"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Viafont;-inkscape-font-specification:'Viafont, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="letter-spacing:-2px;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowPara4772">Sympa</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="259.48264"
+         inkscape:export-xdpi="259.48264"
+         inkscape:export-filename="/home/olivier/Images/logos/sympa/sympa7/planche2.png"
+         xml:space="preserve"
+         id="flowRoot5028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Viafont;-inkscape-font-specification:'Viafont, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ee575c;fill-opacity:1;stroke:none;stroke-width:4.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(-0.58856431,-0.09340147,-0.09340147,0.58856431,1598.0771,-446.62288)"><flowRegion
+           id="flowRegion5030"><rect
+             id="rect5032"
+             width="212.85715"
+             height="60.714287"
+             x="758.57141"
+             y="358.07648"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Viafont;-inkscape-font-specification:'Viafont, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="letter-spacing:-2px;fill:#ee575c;fill-opacity:1;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowPara5034">Sympa</flowPara></flowRoot>    </g>
+    <g
+       id="g4759"
+       inkscape:export-filename="/tmp/logo_sympa_groupe.png"
+       inkscape:export-xdpi="56.417053"
+       inkscape:export-ydpi="56.417053"
+       transform="translate(-220,-40)" />
+  </g>
+</svg>
